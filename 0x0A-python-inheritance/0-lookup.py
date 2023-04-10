@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-"""Module 0-lookup
-Finding a list of available attributes & methods of an object
-"""
 
 
 def lookup(obj):
